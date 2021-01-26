@@ -1,12 +1,12 @@
 
 In this challenege we encounter this cipher 
 
-!()[./images/monkcpher.png]
+![](./images/monkcpher.png)
 
 
 and we get a preety big hint that this cipher is related to Monks so just googling : Monk Cipher we get this image 
 
-!()[./images/monkcipherdecrypt.png]
+![](./images/monkcipherdecrypt.png)
 
 
 And using this image we basically turn this image into numbers like so :
@@ -15,4 +15,4 @@ And using this image we basically turn this image into numbers like so :
 
 this seems to me like hex so i basically just use cyberchef now to decrypt this hex code :
 
-!()[./images/monkcipher.png]
+![](./images/monkcipher.png)
